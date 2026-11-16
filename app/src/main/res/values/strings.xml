@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PulseHUD</string>
+    <string name="accessibility_description">Counts click events that Android makes available. Some games do not expose touch events.</string>
+</resources>
